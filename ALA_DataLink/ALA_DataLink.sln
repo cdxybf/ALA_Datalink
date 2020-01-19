@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALA_Datalink", "ALA_Datalink.csproj", "{4770ECD3-A732-493E-9B56-97D0EC90B2A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Installer|Any CPU = Installer|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4770ECD3-A732-493E-9B56-97D0EC90B2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4770ECD3-A732-493E-9B56-97D0EC90B2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4770ECD3-A732-493E-9B56-97D0EC90B2A6}.Installer|Any CPU.ActiveCfg = Release|Any CPU
+		{4770ECD3-A732-493E-9B56-97D0EC90B2A6}.Installer|Any CPU.Build.0 = Release|Any CPU
+		{4770ECD3-A732-493E-9B56-97D0EC90B2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4770ECD3-A732-493E-9B56-97D0EC90B2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {890FA752-0999-4B32-9FBB-705225BA908B}
+	EndGlobalSection
+EndGlobal
