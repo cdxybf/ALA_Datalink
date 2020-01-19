@@ -200,9 +200,8 @@ namespace Application
             )
             //event and dataflow. AppStartsRun
             .WireTo(new EventConnector()
-            // According to the confidential agreement of Datamars, the following code is not
-            // provided. Such code is correlated with how the abstractions are wired to interact
-            // interacting with a connected device.
+            // According to the confidential agreement of Datamars, the following code is not provided. 
+            // Such code is correlated with how the abstractions are wired to interact with a connected device.
 
             // start to transact session list
             // .WireTo(new Transact() { AutoLoadNextBatch = true, ClearDestination = true, InstanceName = "transact session list" })
